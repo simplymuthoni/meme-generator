@@ -1,0 +1,1 @@
+"""Meme Generator API - A FastAPI backend for generating memes with AI integration"""
